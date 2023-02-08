@@ -1,0 +1,11 @@
+C:\Users\FelixEdenborgh\Documents\CSharp\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+C:\Users\FelixEdenborgh\Documents\CSharp\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+C:\Users\FelixEdenborgh\Documents\CSharp\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+C:\Users\FelixEdenborgh\Documents\CSharp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.AssemblyReference.cache
+C:\Users\FelixEdenborgh\Documents\CSharp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\FelixEdenborgh\Documents\CSharp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.NoteTaker.resources
+C:\Users\FelixEdenborgh\Documents\CSharp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\FelixEdenborgh\Documents\CSharp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.cache
+C:\Users\FelixEdenborgh\Documents\CSharp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\FelixEdenborgh\Documents\CSharp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+C:\Users\FelixEdenborgh\Documents\CSharp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
